@@ -124,7 +124,7 @@ tours {
 	top: -50px;
 	width: calc(100% - 50px);
 	height: 100%;
-	border: 20px solid rgba(9, 53, 247, 0.1);
+	border: 20px solid #a6fed0;
 	content: "";
 	z-index: -1;
 }
@@ -144,12 +144,12 @@ tours {
 
 .primary-btn.border-btn {
 	background: transparent;
-	border: 2px solid #5c00ce;
+	border: 2px solid #10de73;
 	color: #111111;
 }
 
-/* main slider
-main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px); min-height: 550px;
+/* main slider */
+/* main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px); min-height: 550px;
 	width: 100%; overflow: hidden; }  
  
 .main-slider .slider-content{ padding: 25px 60px 25px 40px!important; border-radius: 3px!important;
@@ -221,8 +221,8 @@ main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px);
     }
     
     .jp-state-playing .jp-play {
-        background: #5c00ce !important;
-        border-color: #5c00ce !important;
+        background: #10de73 !important;
+        border-color: #10de73 !important;
     }
     
     .jp-state-playing .jp-play:after {
@@ -232,8 +232,8 @@ main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px);
     }
     
     .jp-audio .jp-play:focus {
-        background: #5c00ce !important;
-        border-color: #5c00ce !important;
+        background: #10de73 !important;
+        border-color: #10de73 !important;
     }
     
     .jp-audio .jp-play:focus:after {
@@ -260,7 +260,7 @@ main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px);
     .jp-play-bar {
         position: relative;
         height: 100%;
-        background: #5c00ce;
+        background: #10de73;
         overflow: visible !important;
     }
     
@@ -304,7 +304,7 @@ main-slider{ margin-top: 265px; position: relative; height: calc(100vh - 265px);
     }
     
     .jp-volume-bar-value {
-        background: #5c00ce;
+        background: #10de73;
         height: 100%;
     }
     
