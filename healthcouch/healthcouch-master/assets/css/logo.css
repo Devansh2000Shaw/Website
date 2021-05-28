@@ -1,0 +1,32 @@
+.logo img{
+
+    width:100px;
+    height:100px;
+
+}
+body
+{
+    overflow: hidden;
+}
+
+nav #navigation{
+    background-color: transparent;
+}
+
+/* .testimonial-area  {
+   padding-bottom: 20px;
+} */
+
+.about-low-area{
+    padding-top: 100px;
+}
+
+.doctors_list li{
+    list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+
+.doctors_list li :hover{
+    background-color: #07A854;
+    text-emphasis-color: white;
+    margin: 5px 0 5px 0;
+}
