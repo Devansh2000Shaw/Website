@@ -30,3 +30,38 @@ nav #navigation{
     text-emphasis-color: white;
     margin: 5px 0 5px 0;
 }
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    height:20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-github{
+      background: #050505;
+    color: white;
+  }
+  
+  .fa-quora{
+      background:rgb(250, 248, 248);
+      color:brown;
+  }
